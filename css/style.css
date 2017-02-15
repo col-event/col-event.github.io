@@ -372,12 +372,12 @@ header div.menu-header-bottom ul.right-list li.sub-right-list {
 header div.menu-header-bottom ul.right-list li a#btn-corporate {
   height: 78px;
   color: #000000;
-  background: url('/images/chauvron-bas-noir.png') center 40px no-repeat #e3e4e5;
+  background: url('../images/chauvron-bas-noir.png') center 40px no-repeat #e3e4e5;
 }
 /* line 325, ../../src/stylesheets/style.scss */
 header div.menu-header-bottom ul.right-list li a#btn-corporate:hover {
   color: #e3e4e5;
-  background: url('/images/chauvron-bas.png') center 40px no-repeat #000000;
+  background: url('../images/chauvron-bas.png') center 40px no-repeat #000000;
 }
 /* line 333, ../../src/stylesheets/style.scss */
 header div.menu-header-bottom ul.right-list a.right-list-link {
@@ -706,7 +706,7 @@ footer div.subFooter li img.img-sub-footer {
 }
 /* line 666, ../../src/stylesheets/style.scss */
 footer .map {
-  background: url('/images/map.jpg') center center no-repeat;
+  background: url('../images/map.jpg') center center no-repeat;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
@@ -908,12 +908,12 @@ footer .lowFooter .boldFooter {
   header div.menu-header-bottom ul.right-list li a#btn-corporate {
     height: 78px;
     color: #000000;
-    background: url('/images/chauvron-bas-noir.png') center 40px no-repeat #e3e4e5;
+    background: url('../images/chauvron-bas-noir.png') center 40px no-repeat #e3e4e5;
   }
   /* line 876, ../../src/stylesheets/style.scss */
   header div.menu-header-bottom ul.right-list li a#btn-corporate:hover {
     color: #e3e4e5;
-    background: url('/images/chauvron-bas.png') center 40px no-repeat #000000;
+    background: url('../images/chauvron-bas.png') center 40px no-repeat #000000;
   }
   /* line 882, ../../src/stylesheets/style.scss */
   header div.menu-header-bottom ul.right-list a.color2,
